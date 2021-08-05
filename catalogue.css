@@ -1,0 +1,61 @@
+.catalogue_contain{
+width: 1530px;
+height: 653px;
+overflow: hidden;
+padding: 0;
+margin: 0;
+background: #F1F2F2;
+
+
+}
+.catalogue{
+margin-top: 218.5px;
+width: 290.85px;
+height: 314px;
+float: left;
+padding: 5px;
+
+
+
+}
+.catalogue:first-child{
+margin-left: 149px;
+}
+
+.quality{
+	
+font-family: Gilroy;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+color: #9A7E68;
+}
+
+.quality1{
+margin-top: -39px;
+font-family: Gilroy;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 19px;
+color: #4A5A6C;
+
+}
+.catalogue img{
+display: block;
+position: relative;
+width: 100%;
+height: 214px;
+
+}
+.catalogue_contain h2{
+margin-top: -95px;
+font-family: Gilroy;
+font-style: normal;
+font-weight: 500;
+font-size: 48px;
+line-height: 56px;
+
+color: #9A7E68;
+}
